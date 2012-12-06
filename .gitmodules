@@ -1,3 +1,6 @@
 [submodule "Lib/jasmine"]
 	path = Lib/jasmine
 	url = https://github.com/pivotal/jasmine/
+[submodule "Lib/jstorage"]
+	path = Lib/jstorage
+	url = https://github.com/andris9/jStorage.git
