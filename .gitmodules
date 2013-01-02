@@ -4,6 +4,3 @@
 [submodule "Lib/jstorage"]
 	path = Lib/jstorage
 	url = https://github.com/andris9/jStorage.git
-[submodule "Lib/jquery-mobile"]
-	path = Lib/jquery-mobile
-	url = https://github.com/jquery/jquery-mobile.git
