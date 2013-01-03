@@ -4,3 +4,6 @@
 [submodule "Lib/jstorage"]
 	path = Lib/jstorage
 	url = https://github.com/andris9/jStorage.git
+[submodule "Lib/bootstrap"]
+	path = Lib/bootstrap
+	url = git@github.com:hijolan/bootstrap.git
